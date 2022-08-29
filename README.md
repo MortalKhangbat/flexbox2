@@ -1,1 +1,1 @@
-# flexbox2
+# flexbox2 practicing with another landing page to help soildify flexbox, html and css knowlege
