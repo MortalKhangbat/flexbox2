@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #a1c3ff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.conhead {
+    background-color: dodgerblue;
+    padding: 12px;
+}
+
+.navibar {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerlinks {
+    display: flex;
+    gap: 15px;
+}
+
+ul, a {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+
+h1 {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.herotext {
+    padding: 10px;
+    text-align: center;
+}
+
+.intro {
+    font-size: 35px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.centerpic {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.info {
+display: flex;
+flex-direction: column;
+padding: 20px;
+
+
+}
+
+.doggo {
+    height: 250px;
+    width: 250px;
+}
