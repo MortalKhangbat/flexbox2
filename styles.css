@@ -32,6 +32,12 @@ ul, a {
     color: black;
 }
 
+.headerlinks a:hover {
+    color: rgb(255, 183, 0);
+
+}
+
+
 h1 {
     border: 10px;
     border-style: double;
